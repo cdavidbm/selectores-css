@@ -1,6 +1,6 @@
 ### **📌 El DOM (Document Object Model) explicado paso a paso**  
 
-El **DOM (Modelo de Objetos del Documento)** es una representación estructurada de un documento HTML o XML en forma de un **árbol de nodos**. Permite a los lenguajes de programación (como **JavaScript**) manipular la estructura, el contenido y el estilo de una página web.  
+El **DOM (Modelo de Objetos del Documento)** es una representación estructurada de un documento HTML en forma de un **árbol de nodos**. Conocerlo nos permote manipular la estructura, el contenido y el estilo de una página web.  
 
 ---
 
