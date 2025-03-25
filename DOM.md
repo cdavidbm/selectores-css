@@ -57,5 +57,3 @@ El DOM está compuesto por diferentes tipos de nodos:
 
 📖 **Curso interactivo sobre el DOM en W3Schools:**  
 🔗 [https://www.w3schools.com/js/js_htmldom.asp](https://www.w3schools.com/js/js_htmldom.asp)  
-
-¿Te gustaría que profundicemos en algún aspecto específico? 😊
